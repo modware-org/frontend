@@ -6,6 +6,45 @@ Each approach offers unique advantages and challenges, underscoring the importan
 
 Both the decomposition and decoupling strategies underscore a broader trend towards more specialized, efficient, and flexible architectures in web development. By breaking down monolithic structures, whether through microfrontends or the more theoretical nanofrontends, developers can create more manageable, scalable applications. On the other hand, decoupling strategies like headless and frontendless architectures offer different angles on separating concerns, enhancing content delivery, and optimizing performance.
 
+
+Below is a Mermaid graph that visualizes the content described above regarding the two strategies from the frontside perspective: 
+Decomposition and Decoupling, along with their sub-strategies and implications for web development architecture.
+
+```mermaid
+graph TD
+    A[Web Development Architecture] --> B[Decomposition]
+    A --> C[Decoupling]
+
+    B --> D[Microfrontend]
+    B --> E[Nanofrontend]
+
+    C --> F[Headless]
+    C --> G[Frontendless]
+
+    D --> H{Break down monolithic architecture}
+    E --> I{Granularity to the extreme}
+    F --> J{Separates frontend from backend}
+    G --> K{Minimizing the traditional frontend layer}
+
+    H --> L[Independent development and deployment]
+    I --> M[Tiny, reusable units]
+    J --> N[Flexibility in content management]
+    K --> O[Streamline frontend to its most essential form]
+
+    L --> P[Increased development speed and scalability]
+    M --> Q[Potential for highly atomic design systems]
+    N --> R[Support various frontends with the same backend]
+    O --> S[Offload processing, leading to faster load times]
+
+    P --> T[More manageable, scalable applications]
+    Q --> T
+    R --> T
+    S --> T
+
+    T --> U[Modularity, Efficiency, Practicality]
+    U --> V[Selecting the right architecture based on needs]
+```
+
 Below is an exploration of each strategy and how they reflect current trends in web development.
 
 

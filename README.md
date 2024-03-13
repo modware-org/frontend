@@ -27,4 +27,18 @@ The headless architecture decouples the frontend (the "head") from the backend, 
 This concept narrows down the focus on minimizing the traditional frontend layer, leveraging server-side rendering or compiling to minimal client-side code. The goal is to offload as much processing as possible to the backend or to compile-time operations, leading to faster load times and potentially smaller application sizes. Unlike the headless approach, which purely emphasizes decoupling, frontendless strategies may still rely on tight integration with backend services but look to streamline the frontend to its most essential form.
 
 
+## keywords
 
++ Software Architecture Patterns
++ Design Patterns
++ Decomposition and Decoupling specifically focus on structuring and organizing code to make it more reusable, maintainable, scalable, and adaptable to change, which are key objectives in software architecture.
++ web applications
++ front-end development
++ Front-End Architecture Patterns
++ Web Development Architecture Strategies
++ client-side perspective
+
+
+
+---
++ [edit](https://github.com/modware-org/frontend/edit/main/README.md)

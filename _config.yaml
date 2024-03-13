@@ -1,0 +1,11 @@
+title: Interface-Centric Solutions - frontend.modware.org
+description: two strategies from the frontside perspective: Decomposition and Decoupling, along with their sub-strategies and implications for web development architecture
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"  
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false

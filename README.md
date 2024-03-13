@@ -4,10 +4,12 @@ Two strategies from the frontside perspective, "Decomposition" and "Decoupling,"
 These strategies highlight the industry's movement towards more modular, flexible, and efficient approaches to building web applications, the balance between modularity, efficiency, and the practicalities of application development and maintenance. 
 Each approach offers unique advantages and challenges, underscoring the importance of selecting the right architecture based on the specific needs and goals of a web project.
 
+
 Both the decomposition and decoupling strategies underscore a broader trend towards more specialized, efficient, and flexible architectures in web development. By breaking down monolithic structures, whether through microfrontends or the more theoretical nanofrontends, developers can create more manageable, scalable applications. On the other hand, decoupling strategies like headless and frontendless architectures offer different angles on separating concerns, enhancing content delivery, and optimizing performance.
 
+## Graph 
 
-Below is a Mermaid graph that visualizes the content described above regarding the two strategies from the frontside perspective: 
+Below is a graph that visualizes the content described above regarding the two strategies from the frontside perspective: 
 Decomposition and Decoupling, along with their sub-strategies and implications for web development architecture.
 
 ```mermaid

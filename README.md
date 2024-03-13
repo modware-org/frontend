@@ -1,4 +1,4 @@
-# frontend - Interface-Centric Solutions - nanoFrontends.com: Modular/Atomized Streamed Interface
+# Interface-Centric Solutions - [frontend.modware.org](http://frontend.modware.org)
 
 Two strategies from the frontside perspective, "Decomposition" and "Decoupling," illuminate the evolving landscape of web development architecture. 
 These strategies highlight the industry's movement towards more modular, flexible, and efficient approaches to building web applications, the balance between modularity, efficiency, and the practicalities of application development and maintenance. 

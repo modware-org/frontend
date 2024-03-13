@@ -81,3 +81,32 @@ This concept narrows down the focus on minimizing the traditional frontend layer
 
 ---
 + [edit](https://github.com/modware-org/frontend/edit/main/README.md)
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js"></script>
+<script>
+var config = {
+    startOnReady:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+mermaid.init(undefined, '.language-mermaid');
+</script>
+
+<script type="module">
+    /**
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'dark'
+  });
+  */
+</script>
